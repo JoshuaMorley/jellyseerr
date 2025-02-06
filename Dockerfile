@@ -39,7 +39,7 @@ RUN echo "{\"commitTag\": \"${COMMIT_TAG}\"}" > committag.json
 FROM node:22-alpine
 
 # Metadata for Github Package Registry
-LABEL org.opencontainers.image.source="https://github.com/Fallenbagel/jellyseerr"
+LABEL org.opencontainers.image.source="https://github.com/JoshuaMorley/jellyseerr"
 
 WORKDIR /app
 
