@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fallenbagel/jellyseerr.git"
+    "url": "https://github.com/JoshuaMorley/jellyseerr.git"
   },
   "license": "MIT",
   "dependencies": {
@@ -237,8 +237,8 @@
           "COMMIT_TAG": "$GIT_SHA"
         },
         "imageNames": [
-          "fallenbagel/jellyseerr",
-          "ghcr.io/fallenbagel/jellyseerr"
+          "JoshuaMorley/jellyseerr",
+          "ghcr.io/JoshuaMorley/jellyseerr"
         ],
         "platforms": [
           "linux/amd64",
