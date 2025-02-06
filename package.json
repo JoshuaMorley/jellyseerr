@@ -237,8 +237,8 @@
           "COMMIT_TAG": "$GIT_SHA"
         },
         "imageNames": [
-          "JoshuaMorley/jellyseerr",
-          "ghcr.io/JoshuaMorley/jellyseerr"
+          "joshuamorley/jellyseerr",
+          "ghcr.io/joshuamorley/jellyseerr"
         ],
         "platforms": [
           "linux/amd64",
